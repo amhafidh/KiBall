@@ -1,0 +1,23 @@
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\bin\Debug\python.exe
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\bin\Debug\python.pdb
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\bin\Debug\python.xml
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\obj\x86\Debug\python.Form1.resources
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\obj\x86\Debug\python.Resources.resources
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\obj\x86\Debug\python.vbproj.GenerateResource.Cache
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\obj\x86\Debug\python.exe
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\obj\x86\Debug\python.xml
+C:\Users\AMHafidh\AppData\Local\Temporary Projects\python\obj\x86\Debug\python.pdb
+C:\Desktop\projects\python\python\obj\x86\Debug\python.exe
+C:\Desktop\projects\python\python\obj\x86\Debug\python.xml
+C:\Desktop\projects\python\python\obj\x86\Debug\python.pdb
+C:\Desktop\projects\python\python\obj\x86\Debug\python.Form1.resources
+C:\Desktop\projects\python\python\obj\x86\Debug\python.Resources.resources
+C:\Desktop\projects\python\python\obj\x86\Debug\python.vbproj.GenerateResource.Cache
+C:\Desktop\projects\python\python\bin\Debug\python.exe
+C:\Desktop\projects\python\python\bin\Debug\python.pdb
+C:\Desktop\projects\python\python\bin\Debug\python.xml
+C:\Desktop\projects\python\python\obj\x86\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Desktop\projects\python\python\obj\x86\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Desktop\projects\python\python\obj\x86\Debug\python.vbproj.ResolveComReference.cache
+C:\Desktop\projects\python\python\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Desktop\projects\python\python\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
